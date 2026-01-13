@@ -30,7 +30,8 @@ Computer Science undergraduate student at **Université Côte d’Azur**, passio
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,r,java,python,ts,html,css,django,git,github,linux,nginx,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=c,r,java,python,html,css,django,git,github,linux,nginx,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=c,r,java,python,ts,html,css,django,git,github,linux,nginx,mysql,sqlite" />
 </p>
 
 ---
