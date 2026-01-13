@@ -31,9 +31,10 @@ Computer Science undergraduate student at **Université Côte d’Azur**, passio
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,r,java,python,html,css,django,git,github,linux,nginx,mysql,sqlite" />
-  <img src="https://raw.githubusercontent.com/libgdx/libgdx/master/extensions/gdx-tools/src/com/badlogic/gdx/tools/hiero/gdx-icon.png" width="48" />
-
 </p>
+### 🎮 Game Development
+- libGDX (Java game framework)
+
 
 ---
 
