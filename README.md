@@ -1,69 +1,74 @@
-# 👋 Hi, I'm Yakoub Bouzit
+# Yakoub Bouzit
 
-🎓 **Étudiant en Licence Informatique** à l’**Université Côte d’Azur**  
-🔐 Passionné par la **cybersécurité** et le **développement logiciel**
+Élève ingénieur en informatique à **Polytech Marseille** (ex-licence à l'Université Côte d'Azur).
+Cybersécurité, IA et développement logiciel.
 
 ---
 
-## 👨‍💻 About Me | À propos de moi
+## À propos de moi | About me
 
-🇫🇷  
-Je suis étudiant en informatique, intéressé par la **cybersécurité**, en particulier :
+**FR**
+Je m'intéresse à la cybersécurité, surtout :
 - la sécurité des réseaux
-- le pentesting / CTF
+- le pentesting et les CTF
 - la cryptographie
 - les systèmes Linux
-- les vulnérabilités web (ex: SQL Injection)
+- les vulnérabilités web (par exemple l'injection SQL)
 
-J’aime comprendre **comment les systèmes fonctionnent** et **comment ils peuvent être attaqués et sécurisés**.
+J'aime comprendre comment les systèmes fonctionnent, comment on peut les attaquer et comment on les protège.
 
-🇬🇧  
-Computer Science undergraduate student at **Université Côte d’Azur**, passionate about **cybersecurity and software development**, with a strong interest in:
-- Network security  
-- Pentesting & CTFs  
-- Cryptography  
-- Linux systems  
-- Web vulnerabilities (e.g. SQL Injection)
+**EN**
+Computer science student at **Polytech Marseille** (previously Université Côte d'Azur), interested in cybersecurity and software development, especially:
+- network security
+- pentesting and CTFs
+- cryptography
+- Linux systems
+- web vulnerabilities (e.g. SQL injection)
 
 ---
 
-## 🛠 Languages and Tools
+## Langages et outils | Languages and tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,r,java,python,html,css,figma,django,git,github,linux,nginx,mysql,sqlite" />
 </p>
-### 🎮 Game Development
-- libGDX (Java game framework)
 
-
----
-
-## 🔐 Cybersecurity Interests
-
-- 🌐 Network security
-- 🚩 CTFs & Pentesting
-- 🔑 Cryptography
-- 🐧 Linux systems
-- 💉 Web security (SQL Injection, common vulnerabilities)
-- 🛡 Understanding attack & defense mechanisms
+**Game development :** libGDX (framework Java)
 
 ---
 
-## 📂 Projects
+## Projets | Projects
 
-- 🎮 **2D Game Engine (Academic Project)**  
-  Development of a 2D game engine in a team project (architecture, core systems, rendering logic).
+- **Système de détection d'intrusions par IA**
+  Plateforme web qui simule des attaques (brute force, DoS, SQLi, XSS) et modèle qui classe chaque requête comme normale ou malveillante.
+  Python, Flask, Machine Learning, JavaScript
 
-- 🧪 **Computer Science Academic Projects**  
-  Various projects related to programming, systems, and software engineering.
+- **Test de sécurité pour chatbots LLM / RAG** *(en cours)*
+  Chatbot RAG vulnérable et outil d'attaques automatisées (injection de prompt, fuite de données), avec rapport de risque basé sur l'OWASP Top 10 for LLM.
+  Python, Ollama, FastAPI, ChromaDB
+
+- **Moteur de jeu 2D** *(projet d'école, en équipe)*
+  Architecture, systèmes de base, logique de rendu, mouvements, collisions, scoring.
+  Java, libGDX, Tiled
+
+- **Back-end d'un site e-commerce** *(projet d'école)*
+  Modèles, API, commandes et utilisateurs.
+  Django, Git
+
+- **Autres projets d'école**
+  Programmation, systèmes, génie logiciel.
 
 ---
 
-## 📫 How to reach me
+## CTF
 
-- 📧 Email: **yakoubbouzit06@gmail.com**
-- 💼 LinkedIn: [Yakoub Bouzit](https://www.linkedin.com/in/yakoub-bouzit/)
+picoCTF (réseau, Linux, cryptographie, scripting) et TryHackMe.
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+## Contact
+
+- Email : yakoubbouzit06@gmail.com
+- LinkedIn : [Yakoub Bouzit](https://www.linkedin.com/in/yakoub-bouzit/)
+
+Mes dépôts sont ci-dessous.
