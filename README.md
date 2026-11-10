@@ -1,74 +1,64 @@
 # Yakoub Bouzit
 
-Élève ingénieur en informatique à **Polytech Marseille** (ex-licence à l'Université Côte d'Azur).
-Cybersécurité, IA et développement logiciel.
+**Computer Science Engineering Student at Polytech Marseille | AI & Cybersecurity**
+
+Third-year engineering student at **Polytech Marseille**, with a strong interest in Artificial Intelligence, Cybersecurity, and Software Engineering.
+
+I'm particularly interested in the intersection of AI and cybersecurity: exploring how machine learning can improve security systems, how AI-powered applications can be attacked, and how to build more resilient and secure solutions.
+
+I enjoy working on practical projects that combine software development, security research, and artificial intelligence.
 
 ---
 
-## À propos de moi | About me
+## Areas of Interest
 
-**FR**
-Je m'intéresse à la cybersécurité, surtout :
-- la sécurité des réseaux
-- le pentesting et les CTF
-- la cryptographie
-- les systèmes Linux
-- les vulnérabilités web (par exemple l'injection SQL)
+- **Artificial Intelligence & Machine Learning** — intelligent systems, model development, and practical AI applications.
+- **AI Security** LLM security, prompt injection, RAG vulnerabilities, and AI red teaming.
+- **Cybersecurity** network security, penetration testing, web vulnerabilities, and CTF challenges.
+- **Systems & Low-Level Programming** — Linux, system architecture, and programming fundamentals.
+- **Software Engineering** — backend development, APIs, and application architecture.
 
-J'aime comprendre comment les systèmes fonctionnent, comment on peut les attaquer et comment on les protège.
+## Technical Skills
 
-**EN**
-Computer science student at **Polytech Marseille** (previously Université Côte d'Azur), interested in cybersecurity and software development, especially:
-- network security
-- pentesting and CTFs
-- cryptography
-- Linux systems
-- web vulnerabilities (e.g. SQL injection)
+**Programming:** Python, Java, C, R, JavaScript, HTML, CSS, assembly (SPIM, X86)
 
----
+**AI & Machine Learning:** Machine Learning, LLMs, RAG, Ollama, ChromaDB
 
-## Langages et outils | Languages and tools
+**Cybersecurity:** Linux, Network Security, Web Security, SQL Injection, XSS, CTFs, Cryptography
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,r,java,python,html,css,figma,django,git,github,linux,nginx,mysql,sqlite" />
-</p>
+**Frameworks & Tools:** Flask, FastAPI, Django, libGDX, Git, GitHub, Nginx, MySQL, SQLite
 
-**Game development :** libGDX (framework Java)
+## Selected Projects
 
----
+### AI-Based Intrusion Detection System
+Development of a web platform simulating different cyberattacks, including brute force, SQL injection, and XSS. A machine learning model analyzes incoming requests and classifies them as legitimate or malicious.
 
-## Projets | Projects
+*Python · Flask · Machine Learning · JavaScript*
 
-- **Système de détection d'intrusions par IA**
-  Plateforme web qui simule des attaques (brute force, DoS, SQLi, XSS) et modèle qui classe chaque requête comme normale ou malveillante.
-  Python, Flask, Machine Learning, JavaScript
+### LLM & RAG Security Testing Platform *(In Progress)*
+Development of a vulnerable RAG-based chatbot alongside an automated security testing tool. The project focuses on identifying vulnerabilities such as prompt injection and sensitive data leakage, with risk assessment inspired by the OWASP Top 10 for LLM Applications.
 
-- **Test de sécurité pour chatbots LLM / RAG** *(en cours)*
-  Chatbot RAG vulnérable et outil d'attaques automatisées (injection de prompt, fuite de données), avec rapport de risque basé sur l'OWASP Top 10 for LLM.
-  Python, Ollama, FastAPI, ChromaDB
+*Python · FastAPI · Ollama · ChromaDB*
 
-- **Moteur de jeu 2D** *(projet d'école, en équipe)*
-  Architecture, systèmes de base, logique de rendu, mouvements, collisions, scoring.
-  Java, libGDX, Tiled
+### 2D Game Engine
+Team-based academic project involving game architecture, rendering systems, player movement, collision detection, and scoring mechanics.
 
-- **Back-end d'un site e-commerce** *(projet d'école)*
-  Modèles, API, commandes et utilisateurs.
-  Django, Git
+*Java · libGDX · Tiled*
 
-- **Autres projets d'école**
-  Programmation, systèmes, génie logiciel.
+### E-commerce Backend
+Academic project focused on backend development, including data models, REST APIs, user management, and order processing.
 
----
+*Python · Django · Git*
 
-## CTF
+## CTF & Hands-on Practice
 
-picoCTF (réseau, Linux, cryptographie, scripting) et TryHackMe.
-
----
+Actively exploring cybersecurity through practical challenges on **picoCTF** and **TryHackMe**, with a focus on networking, Linux, cryptography, and scripting.
 
 ## Contact
 
-- Email : yakoubbouzit06@gmail.com
-- LinkedIn : [Yakoub Bouzit](https://www.linkedin.com/in/yakoub-bouzit/)
+- **Email:** yakoubbouzit06@gmail.com
+- **LinkedIn:** [Yakoub Bouzit](https://www.linkedin.com/in/yakoub-bouzit/)
 
-Mes dépôts sont ci-dessous.
+---
+
+*Always exploring, building, and learning at the intersection of AI and cybersecurity.*
